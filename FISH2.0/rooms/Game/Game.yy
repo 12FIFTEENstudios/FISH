@@ -2,7 +2,7 @@
     "id": "47c87d98-5e85-4f50-af8d-66eeb89259d7",
     "modelName": "GMRoom",
     "mvc": "1.0",
-    "name": "room0",
+    "name": "Game",
     "IsDnD": true,
     "creationCodeFile": "",
     "inheritCode": false,
@@ -63,11 +63,11 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4278190080
+                "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "847c6703-9cb5-4184-9959-588302ce6985",
             "stretch": false,
             "userdefined_animFPS": false,
             "vspeed": 0,
@@ -91,8 +91,8 @@
         "id": "35ae188d-de5a-416c-b17d-671d3a7799be",
         "modelName": "GMRoomSettings",
         "mvc": "1.0",
-        "Height": 768,
-        "Width": 1024,
+        "Height": 1800,
+        "Width": 2400,
         "inheritRoomSettings": false,
         "persistent": false
     },
