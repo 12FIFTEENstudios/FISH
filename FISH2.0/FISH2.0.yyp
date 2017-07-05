@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "04447f20-e6fd-4917-9d86-ed24f2c9b3dc",
+            "Value": {
+                "id": "3419c752-a4ca-43ef-a3b3-90422f9d534a",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0856a237-b56f-4a79-ad93-5599ca79f011",
             "Value": {
                 "id": "e985fcb3-67a5-4cb3-ab95-e949b4ab184a",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "80ce358e-a2d0-4d80-bafe-0494d8fa8828",
+            "Value": {
+                "id": "df9b97cb-1ae5-415b-b66e-38c1ec05b5e0",
+                "resourcePath": "rooms\\Game1\\Game1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "847c6703-9cb5-4184-9959-588302ce6985",
             "Value": {
                 "id": "a6d7e8e0-65c4-4ff5-ba27-3784e017dc94",
@@ -172,6 +188,14 @@
                 "id": "67ced215-fe75-476a-98ca-79ecda6ea34a",
                 "resourcePath": "sprites\\spr_Fish01\\spr_Fish01.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a1ecee00-6d66-43f7-a5f3-5c751e09a331",
+            "Value": {
+                "id": "52fa8002-35be-485e-a01f-d93989b024d4",
+                "resourcePath": "objects\\object1\\object1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
