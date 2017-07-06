@@ -1,22 +1,13 @@
 {
-    "id": "a1ecee00-6d66-43f7-a5f3-5c751e09a331",
+    "id": "6ba8285a-053d-4820-a99a-151179f88918",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object1",
+    "name": "obj_Fish03",
     "eventList": [
-        {
-            "id": "d70a3c38-d249-462c-98ce-b69a9b76521c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "a1ecee00-6d66-43f7-a5f3-5c751e09a331"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "04447f20-e6fd-4917-9d86-ed24f2c9b3dc",
+    "spriteId": "70f28e4a-8413-480b-a63e-9e9033d1238d",
     "visible": true
 }
