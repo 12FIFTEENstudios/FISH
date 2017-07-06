@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <Layouts><Layout layout_name="DnDWorkspace" layout_guid="4ec24148-147d-42e2-b3e5-34911e9cfc33" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[260, 54]" /><Node left="261" top="158" width="760" height="465" hash="2DC9B2E2" /></Layout></Layouts>
+=======
+<Layouts><Layout layout_name="DnDWorkspace" layout_guid="d354b613-fd86-43a5-9e45-0ce7c6c835a2" toolbox_size="25%" toolbox_anchor="Last" story_size="150px"><Workspace zoom="1" pan="[260, 54]" /><Node left="261" top="158" width="760" height="465" hash="2DC9B2E2" /></Layout></Layouts>
+>>>>>>> Movement
