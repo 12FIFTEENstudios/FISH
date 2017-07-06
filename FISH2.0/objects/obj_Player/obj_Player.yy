@@ -21,146 +21,57 @@
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 37,
-            "eventtype": 9,
+            "eventtype": 5,
             "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
         },
         {
-<<<<<<< HEAD
-            "id": "591e8677-6caf-476e-ac5a-820be56dbb3d",
-=======
             "id": "53c6e79a-a9bb-48b8-be87-680cb4030be0",
->>>>>>> Movement
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-<<<<<<< HEAD
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
-        },
-        {
-            "id": "85e6a2d4-0ccc-46c5-842a-334cbc6c7a63",
-=======
             "enumb": 39,
-            "eventtype": 9,
+            "eventtype": 5,
             "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
         },
         {
             "id": "591e8677-6caf-476e-ac5a-820be56dbb3d",
->>>>>>> Movement
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-<<<<<<< HEAD
-            "enumb": 38,
-            "eventtype": 9,
-            "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
-        },
-        {
-            "id": "0a0bba92-d223-4654-b9a4-4721524dfd5d",
-=======
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
         },
         {
-            "id": "85e6a2d4-0ccc-46c5-842a-334cbc6c7a63",
->>>>>>> Movement
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 38,
-<<<<<<< HEAD
-            "eventtype": 5,
-            "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
-        },
-        {
-            "id": "1e57cb09-490e-4e52-accb-39d3394dac8a",
-=======
-            "eventtype": 9,
-            "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
-        },
-        {
-            "id": "15532c01-b380-4ad6-8654-553b385e70e7",
->>>>>>> Movement
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 40,
-<<<<<<< HEAD
-            "eventtype": 5,
-            "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
-        },
-        {
-            "id": "bfbd51ba-4836-4596-b912-1d5269830e45",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 7,
-            "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
-        },
-        {
-            "id": "9e62070c-c8dd-445a-9f9b-8ab102dcc8d0",
-=======
-            "eventtype": 9,
-            "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
-        },
-        {
             "id": "0a0bba92-d223-4654-b9a4-4721524dfd5d",
->>>>>>> Movement
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-<<<<<<< HEAD
-            "enumb": 37,
-=======
             "enumb": 38,
->>>>>>> Movement
             "eventtype": 5,
             "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
         },
         {
-<<<<<<< HEAD
-            "id": "af111970-0d90-4b07-af72-1a01abf4dad5",
-=======
             "id": "1e57cb09-490e-4e52-accb-39d3394dac8a",
->>>>>>> Movement
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-<<<<<<< HEAD
-            "enumb": 39,
-=======
             "enumb": 40,
->>>>>>> Movement
             "eventtype": 5,
             "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
         },
         {
-<<<<<<< HEAD
-            "id": "af4530dd-3cd7-4a2f-a49a-42e2a45884ad",
-=======
             "id": "bfbd51ba-4836-4596-b912-1d5269830e45",
->>>>>>> Movement
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-<<<<<<< HEAD
-            "enumb": 40,
-            "eventtype": 9,
-=======
             "enumb": 0,
             "eventtype": 7,
->>>>>>> Movement
             "m_owner": "683cd855-16d2-4e8a-9a23-1ebeb9413d6c"
         }
     ],
