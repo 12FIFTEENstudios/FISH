@@ -1,4 +1,7 @@
-x = (obj_Player.x + 120);
-y = (obj_Player.y - 48);
-image_angle = (obj_Player.image_angle);
 
+switch (state)
+{
+	case states.following : scr_following_fish03(); break;
+	case states.leaving : scr_leaving(); break;
+	case states.gone : scr_gone(); break;
+}
