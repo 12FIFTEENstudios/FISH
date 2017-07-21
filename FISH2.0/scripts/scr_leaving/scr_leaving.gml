@@ -5,10 +5,14 @@ var xcor = irandom(room_width);
 var ycor = irandom(room_height);
 var ydif = (ycor - y);
 var xdif = (xcor - x);
-
 //image angle set to face the direction of movement and also direction itself
 image_angle = (darctan(ydif/xdif)); 
-motion_set(image_angle, 7.9);
+direction = 0;
+speed +=0.5;
+if speed >8
+{
+	speed = 8;
+}
 // the reason why I didn't use move_towards_point was that it was very choppy, looking at this for an alternative method
 
 while (distance_to_point(xcor,ycor)= 0)
