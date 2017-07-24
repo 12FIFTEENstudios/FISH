@@ -4,4 +4,3 @@ if(speed < 7.9)
     //Move Free(direction, speed)
     motion_set (image_angle, speed + .4);
 }
-
