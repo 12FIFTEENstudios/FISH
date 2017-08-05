@@ -4,4 +4,5 @@
 	image_alpha = 0;//Set the playerfish invisible for the splash screen
 	flip = false;
 	canMove = false;
+	state = states.movement
 //Initialize Variables

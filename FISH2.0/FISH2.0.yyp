@@ -455,6 +455,14 @@
             }
         },
         {
+            "Key": "df290cf0-8ae1-4e60-bcd4-713136a8c882",
+            "Value": {
+                "id": "84fc28b8-f522-4f06-a7c3-6becfc923460",
+                "resourcePath": "scripts\\scr_movement\\scr_movement.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e36fc7ac-96ef-4935-bd05-6a4a6b9ae311",
             "Value": {
                 "id": "566bdabf-7493-424b-b10f-8538fea09656",
@@ -521,6 +529,7 @@
     ],
     "script_order": [
         "5421b1bd-7ac3-4463-b858-0174871f4735",
+        "df290cf0-8ae1-4e60-bcd4-713136a8c882",
         "33632cb9-d28a-4094-95c4-fbd48a40b255",
         "79a9e588-1a45-4e71-9ec5-04277f88197b",
         "7c944f73-3cef-4979-ad42-262be3e37fc0",

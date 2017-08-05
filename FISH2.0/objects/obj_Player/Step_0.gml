@@ -21,3 +21,8 @@ if(x < 300)
     x = 4900
     __view_set( e__VW.XView, 0, (x - 300.5) );
 }
+
+switch (state)
+{
+	case states.movement: scr_movement();break;
+}
