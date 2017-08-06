@@ -5,7 +5,17 @@
     "name": "obj_Fish011",
     "eventList": [
         {
-            "id": "f947ceef-41b9-4260-bd29-431287a17f5d",
+            "id": "b2eea57e-6cba-4a22-858a-d269c8e540be",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "1afb5d90-2d1f-4e5b-945d-697564232e25"
+        },
+        {
+            "id": "5887b167-5ad4-4d52-9968-39b6a03f815f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
