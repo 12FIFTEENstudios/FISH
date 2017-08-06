@@ -1,4 +1,5 @@
 //Sloww down the movement (friction)
+script_execute(scr_movement);
 if(speed > 0)
 {
     speed = (speed - .2);
@@ -20,9 +21,4 @@ if(x < 300)
 {
     x = 4900
     __view_set( e__VW.XView, 0, (x - 300.5) );
-}
-
-switch (state)
-{
-	case states.movement: scr_movement();break;
 }

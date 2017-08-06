@@ -1,0 +1,7 @@
+keydown_esc = keyboard_check(vk_escape)
+keydown_up = keyboard_check(vk_up)
+keydown_down = keyboard_check(vk_down)
+keydown_left = keyboard_check(vk_left)
+keydown_right = keyboard_check(vk_right)
+keypress_up = keyboard_check_pressed(vk_up)
+keypress_down = keyboard_check_pressed(vk_down)

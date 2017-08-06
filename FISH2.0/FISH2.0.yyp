@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0ac11360-7cec-45a3-9083-8ba1bab6e156",
+            "Value": {
+                "id": "0430f225-9123-4778-b3a0-a66de87baa1b",
+                "resourcePath": "rooms\\room01\\room01.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1afb5d90-2d1f-4e5b-945d-697564232e25",
             "Value": {
                 "id": "a7d5d0b4-6477-4afe-bd53-7e8302657a79",
@@ -284,6 +292,14 @@
                 "id": "e8f8b530-6c28-4c62-aa84-811796111812",
                 "resourcePath": "sprites\\spr_Fish01\\spr_Fish01.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8534a0de-daea-4c5c-bf81-3c9bcde36e9d",
+            "Value": {
+                "id": "2d941a38-5291-4f94-8649-36f2d34f835c",
+                "resourcePath": "scripts\\scr_keyboard\\scr_keyboard.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -530,6 +546,7 @@
     "script_order": [
         "5421b1bd-7ac3-4463-b858-0174871f4735",
         "df290cf0-8ae1-4e60-bcd4-713136a8c882",
+        "8534a0de-daea-4c5c-bf81-3c9bcde36e9d",
         "33632cb9-d28a-4094-95c4-fbd48a40b255",
         "79a9e588-1a45-4e71-9ec5-04277f88197b",
         "7c944f73-3cef-4979-ad42-262be3e37fc0",
