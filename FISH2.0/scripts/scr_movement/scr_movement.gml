@@ -56,8 +56,8 @@ if keypress_down
 	    flip = true;
 	}
 }
-
 if keyboard_check_pressed(vk_f3)
 {
-	room_goto_next()
+	room_goto(1);
+	
 }
