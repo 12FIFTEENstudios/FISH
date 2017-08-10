@@ -1,4 +1,5 @@
-//Sloww down the movement (friction)
+
+//Slow down the movement (friction)
 if(speed > 0)
 {
     speed = (speed - .2);
@@ -20,4 +21,21 @@ if(x < 300)
 {
     x = 4900
     __view_set( e__VW.XView, 0, (x - 300.5) );
+}
+
+//Bounds
+if(y >= 1752)
+{
+	y = 1752
+}
+
+if(y <= 48)
+{
+	y = 48
+}
+
+
+if(canMove)
+{
+	script_execute(scr_movement);
 }
