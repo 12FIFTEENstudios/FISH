@@ -1,4 +1,4 @@
-The FISH_003 folder includes a version of FISH that was being developed on GameMaker Studio 1.4. The working build only includes fish movement. Reference this for impleminting fish movement behavior in FISH2.O
+FISH2.0
 
-
-Revert
+8/3/2017
+I got rid of excess folders (ie: ContinuousCamera, FISH_003.gmx). These files can be found in the 12FIFTEENstudios Drive(FISH/Build Integration Library) if they need to be referenced.

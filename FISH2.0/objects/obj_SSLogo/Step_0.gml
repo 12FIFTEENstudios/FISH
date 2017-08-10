@@ -21,5 +21,8 @@ if(image_alpha >= 1)
 //Destroy the object once it has faded out
 if(hasFadedIn == true && image_alpha <= 0)
 {
+	//Spawn the controls
+	obj_SplashScreenManager.controls = true;
+	//destroy this instance
 	instance_destroy();
 }
