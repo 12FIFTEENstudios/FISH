@@ -14,10 +14,6 @@ if(image_alpha <= 0)
 	//when the player has fully faded in...
 	if(obj_Player.image_alpha >= 1)
 	{
-		//create the controls sprite
-		
-		//Set player.canMove to true
-		
 		//Destroy this object
 		instance_destroy();
 	}

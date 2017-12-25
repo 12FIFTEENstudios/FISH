@@ -9,6 +9,7 @@ if(fadeOut == true)
 	
 	if(image_alpha <= 0)
 	{
+		obj_TitleScreen.controlsPressed += 1;
 		instance_destroy();
 	}
 }

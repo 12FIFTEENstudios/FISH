@@ -1,44 +1,17 @@
-scr_keyboard();
-
-if keydown_esc
+//Rotation
+if(keyboard_check(vk_left))
 {
-	action_end_game();
-}
-
-if keydown_left
-{
-	action_set_relative(1);
 	image_angle += 5;
-	action_set_relative(0);
 }
 
-if keydown_up
+if(keyboard_check(vk_right))
 {
-	if(speed < 8)
-	{
-	    //Move Free(direction, speed)
-	    motion_set (image_angle, speed + .4);
-	}
-}
-
-if keydown_right
-{
-	action_set_relative(1);
 	image_angle += -5;
-	action_set_relative(0);
 }
 
-if keydown_down
-{
-	if(speed < 8)
-	{
-	    //Move Free(direction, speed)
-	    motion_set (image_angle, speed + .4);
-	}
-}
-
-if keypress_up
-{
+//Flip
+if(keyboard_check_pressed(vk_up))
+{	
 	if(flip == true)
 	{
 	    //Flip the sprite
@@ -47,7 +20,7 @@ if keypress_up
 	}
 }
 
-if keypress_down
+if(keyboard_check_pressed(vk_down))
 {
 	if(flip == false)
 	{
@@ -56,8 +29,23 @@ if keypress_down
 	    flip = true;
 	}
 }
-if keyboard_check_pressed(vk_f3)
+
+//Motion
+if(keyboard_check(vk_up))
 {
-	room_goto(1);
-	
+	if(speed < 8)
+	{
+	    //Move Free(direction, speed)
+	    motion_set (image_angle, speed + .4);
+		//sprite_index = spr_Player_Animated;
+	}
+}
+if(keyboard_check(vk_down))
+{
+	if(speed < 8)
+	{
+	    //Move Free(direction, speed)
+	    motion_set (image_angle, speed + .4);
+		//sprite_index = spr_Player_Animated;
+	}
 }

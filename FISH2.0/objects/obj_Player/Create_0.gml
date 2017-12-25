@@ -3,8 +3,12 @@
     __view_set( e__VW.YView, 0, (1800-600));//Center Camera
 	flip = false;
 	canMove = false;
-	if room != room01		//Delete this later//
-	{						//Delete this later//
-		image_alpha = 0;	//Delete this later//
-	}						//Delete this later//
+	
+	/**///////////////////////Delete this later//
+	/**/if(room == rm_Main)	//Delete this later//
+	/**/{					//Delete this later//
+	/**/	image_alpha = 0;//Delete this later//
+	/**/}					//Delete this later//
+	/**///////////////////////Delete this later//
+
 //Initialize Variables

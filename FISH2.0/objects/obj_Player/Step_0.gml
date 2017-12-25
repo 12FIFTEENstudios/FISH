@@ -1,4 +1,3 @@
-
 //Slow down the movement (friction)
 if(speed > 0)
 {
@@ -7,7 +6,7 @@ if(speed > 0)
 //But don't let the speed get lower than zero
 else
 {
-    speed = 0;
+   speed = 0;
 }
 
 //Continous Camera
@@ -35,7 +34,7 @@ if(y <= 48)
 }
 
 
-if(canMove)
+if(canMove == true)
 {
 	script_execute(scr_movement);
 }
